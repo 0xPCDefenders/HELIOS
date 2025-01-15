@@ -4,7 +4,7 @@ import (
 	"fmt"
 )
 
-func main() {
+func aggregator() {
 	// set up the aggregator
 	fmt.Println("Hello, World!")
 }
