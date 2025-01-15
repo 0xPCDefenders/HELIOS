@@ -1,10 +1,10 @@
-package main
+package aggregation
 
 import (
 	"fmt"
 )
 
-func aggregator() {
+func Aggregator() {
 	// set up the aggregator
 	fmt.Println("Hello, World!")
 }
